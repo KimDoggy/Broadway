@@ -1,0 +1,59 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+.head {
+  background-image: url(images/numb.png);
+}
+
+.head h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.ul li {
+  font-size: 18px;
+  list-style-type: none;
+}
+
+.ul li a {
+  color: white;
+}
+
+#process h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+ h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#process p, #work p, #team p, #contact p{
+  font-size: 14px;
+}
+
+.individual {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url(images/numb.png);
+}
+
+.footer p {
+    display: inline;
+    font-size: 11px;
+    color: white;
+}
+
+.footer a {
+  color: white;
+}
+
+.footer {
+  background-color: dimgray;
+  text-align: left;
+}
